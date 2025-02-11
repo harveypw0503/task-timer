@@ -10,7 +10,7 @@ import time # Tracks time and allows to start and stop it.
 import csv # Exports task history as csv file, (I knew you could do this from where I worked over the summer but I wasn't the code I was the graphic designer and so I learned what a csv file was)
 
 
-#def taskTimer class so i can self
+
 class TaskTimer: 
     def __init__(self):
         self.tasks = {} # make empty dic for tasks

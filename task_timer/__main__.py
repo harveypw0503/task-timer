@@ -1,7 +1,7 @@
-'''Task Timer Assignmen
+'''Task Timer Assignment
 Author: Harvey Walter'''
 
-# import stuffs
+
 import time 
 import csv
 
